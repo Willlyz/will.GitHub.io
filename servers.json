@@ -1,9 +1,8 @@
 {
-  "servers": [
-    {
-      "name": "wills",
-      "address": "https://anisette-v3-server-bujo.onrender.com"
-    }
-  ],
-  "cache": "https://servers.sidestore.io/servers.json.hash"
+    "servers": [
+        {
+            "name": "wills",
+            "address": "https://anisette-v3-server-bujo.onrender.com"
+        }
+    ]
 }
